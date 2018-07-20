@@ -8,9 +8,7 @@
 
 <https://www.sli.do>
 
-### 課程共用筆記
-
-<https://colab.research.google.com/drive/1D_a3idela6AvAMOm4AxigfoecY1YlQvm>
+### [課程共用筆記](https://colab.research.google.com/drive/1jdqEqp9-0usiNTcKjNM4v3dCsjRCPPZX)
 
 ### 課程大綱
 
