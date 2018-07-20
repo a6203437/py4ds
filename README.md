@@ -2,7 +2,7 @@
 
 ### 簡介
 
-這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在中國文化大學推廣部的 Python資料分析與視覺化/機器學習課程網頁，課程時數 18 小時。
+這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在中國文化大學推廣部大數據技能養成班的 Python 資料分析與視覺化/機器學習課程網頁，課程時數 18 小時。
 
 ### 課程互動頻道
 
