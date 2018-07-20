@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Python 資料分析與視覺化/機器學習
 
-You can use the [editor on GitHub](https://github.com/yaojenkuo/py4ds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 簡介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在中國文化大學推廣部的 Python資料分析與視覺化/機器學習課程網頁，課程時數 18 小時。
 
-### Markdown
+### 課程互動頻道
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<https://www.sli.do>
 
-```markdown
-Syntax highlighted code block
+### 課程共用筆記
 
-# Header 1
-## Header 2
-### Header 3
+<https://colab.research.google.com/drive/1D_a3idela6AvAMOm4AxigfoecY1YlQvm>
 
-- Bulleted
-- List
+### 課程大綱
 
-1. Numbered
-2. List
+- [NumPy 入門](https://yaojenkuo.github.io/py4ds/intro_2_numpy.slides.html)
+- [pandas 入門](https://yaojenkuo.github.io/py4ds/pandas_intro.slides.html)
+- [pandas 專題：奧運獎牌排行](https://yaojenkuo.github.io/py4ds/pandas_olympic.slides.html)
+- [pandas 專題：美國普查](https://yaojenkuo.github.io/py4ds/pandas_us_census.slides.html)
+- [pandas 專題：世界能源指標](https://yaojenkuo.github.io/py4ds/pandas_energy_indicator.slides.html)
+- [資料視覺化](https://yaojenkuo.github.io/py4ds/data_viz.slides.html)
+- [機器學習簡介](https://yaojenkuo.github.io/py4ds/intro_2_ml.slides.html)
+- [迴歸問題](https://yaojenkuo.github.io/py4ds/regression.slides.html)
+- [分類問題](https://yaojenkuo.github.io/py4ds/classification.slides.html)
 
-**Bold** and _Italic_ and `Code` text
+### 學習資源
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaojenkuo/py4ds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Codecademy](https://www.codecademy.com/learn/learn-python)
+- [Introducing Python](http://shop.oreilly.com/product/0636920028659.do)
+- [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
+- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+- [scikit-learn - Machine Learning in Python](http://scikit-learn.org/stable/)
