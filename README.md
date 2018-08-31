@@ -8,17 +8,17 @@
 
 <https://www.sli.do>
 
-### [課程共用筆記](https://colab.research.google.com/drive/1jdqEqp9-0usiNTcKjNM4v3dCsjRCPPZX)
+### [課程共用筆記](https://colab.research.google.com/drive/1_5kzeK9HMfnDTknCTbSo2zdJ03ToT3C_)
 
 ### 課程大綱
 
-- [NumPy 入門](https://yaojenkuo.github.io/py4ds/intro_2_numpy.slides.html)
-- [pandas 入門](https://yaojenkuo.github.io/py4ds/pandas_intro.slides.html)
-- [pandas 專題：奧運獎牌排行](https://yaojenkuo.github.io/py4ds/pandas_olympic.slides.html)
-- [pandas 專題：美國普查](https://yaojenkuo.github.io/py4ds/pandas_us_census.slides.html)
-- [pandas 專題：世界能源指標](https://yaojenkuo.github.io/py4ds/pandas_energy_indicator.slides.html)
-- [資料視覺化](https://yaojenkuo.github.io/py4ds/data_viz.slides.html)
-- [機器學習簡介](https://yaojenkuo.github.io/py4ds/intro_2_ml.slides.html)
+- [NumPy 入門](https://yaojenkuo.github.io/python_4_ds/intro_2_numpy.slides.html)
+- [pandas 入門](https://yaojenkuo.github.io/python_4_ds/pandas_intro.slides.html)
+- [pandas 專題：奧運獎牌排行](https://yaojenkuo.github.io/python_4_ds/pandas_olympic.slides.html)
+- [pandas 專題：美國普查](https://yaojenkuo.github.io/python_4_ds/pandas_us_census.slides.html)
+- [pandas 專題：世界能源指標](https://yaojenkuo.github.io/python_4_ds/pandas_energy_indicator.slides.html)
+- [資料視覺化](https://yaojenkuo.github.io/python_4_ds/data_viz.slides.html)
+- [機器學習簡介](https://yaojenkuo.github.io/python_4_ds/intro_2_ml.slides.html)
 - [迴歸問題](https://yaojenkuo.github.io/python_4_ds/regression.slides.html)
 - [分類問題](https://yaojenkuo.github.io/python_4_ds/classification.slides.html)
 
