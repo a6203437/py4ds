@@ -19,6 +19,7 @@
 - [pandas 專題：世界能源指標](https://yaojenkuo.github.io/python_4_ds/pandas_energy_indicator.slides.html)
 - [資料視覺化](https://yaojenkuo.github.io/python_4_ds/data_viz.slides.html)
 - [機器學習簡介](https://yaojenkuo.github.io/python_4_ds/intro_2_ml.slides.html)
+- [Scikit-Learn 簡介](https://yaojenkuo.io/python-sklearn-cht/01-Machine-Learning-Intro.slides.html#/)
 - [迴歸問題](https://yaojenkuo.github.io/python_4_ds/regression.slides.html)
 - [分類問題](https://yaojenkuo.github.io/python_4_ds/classification.slides.html)
 
