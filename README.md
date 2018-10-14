@@ -30,3 +30,7 @@
 - [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
 - [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 - [scikit-learn - Machine Learning in Python](http://scikit-learn.org/stable/)
+
+### 參考錄影
+
+- [Python 資料科學](https://www.youtube.com/playlist?list=PLEq7iw5uOtuWmjDABIfpTG8LM8IsdOvjE)
